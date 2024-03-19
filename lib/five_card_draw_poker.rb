@@ -1,4 +1,4 @@
-
+# The card class represents a single playing card.
 class Card
   attr_reader :suit, :value
 
